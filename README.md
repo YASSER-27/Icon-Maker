@@ -1,6 +1,8 @@
 ![logo](example/0.png)
 # Icon-Maker
-اصنع ايقونتك الان بسرعة 
+اصنع ايقونتك الان بسرعة
+
+---
 ![logo](example/1.png)
 
 ---
